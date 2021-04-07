@@ -139,7 +139,7 @@ h1.w4-title {
   font: inherit;
 }
 
-/*div.w4-table-div {
+div.w4-table-div {
   border-width: 1px;
   min-width: 250px;
   margin: 0px 10px 10px 10px;
@@ -152,7 +152,7 @@ h1.w4-title {
   z-index: 1;
 }
 
-table.w4-data-table {
+/*table.w4-data-table {
   width: 100%;
   min-width: 250px;
   position: relative;
