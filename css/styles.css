@@ -234,7 +234,7 @@ td>span.w4-data-table-cell-content-wrapper {
   color: rgba(0, 0, 0, 0.54);
 }
 
-/*#contact h1 {
+#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
@@ -245,7 +245,7 @@ td>span.w4-data-table-cell-content-wrapper {
   margin: 0 auto;
 }
 
-.cal {
+/*.cal {
   display: inline-block;
   background: #ffe;
   color: #555;
