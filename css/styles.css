@@ -194,14 +194,14 @@ th>span.w4-data-table-heading {
   color: rgba(0, 0, 0, 0.54);
 }
 
-/*tbody.w4-data-table {
+tbody.w4-data-table {
   min-width: 250px;
   display: table-header-group;
   vertical-align: middle;
   border-color: inherit;
 }
 
-tr.w4-data-table-row {
+/*tr.w4-data-table-row {
   min-width: 250px;
   border-bottom-color: rgba(0, 0, 0, 0.12);
   height: 48px;
