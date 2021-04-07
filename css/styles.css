@@ -152,7 +152,7 @@ div.w4-table-div {
   z-index: 1;
 }
 
-/*table.w4-data-table {
+table.w4-data-table {
   width: 100%;
   min-width: 250px;
   position: relative;
@@ -163,7 +163,7 @@ div.w4-table-div {
   font: 600 14px Roboto, Helvetica Neue, sans-serif;
 }
 
-thead.w4-data-table {
+/*thead.w4-data-table {
   display: table-header-group;
   min-width: 250px;
   vertical-align: middle;
