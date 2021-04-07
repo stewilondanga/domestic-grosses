@@ -115,7 +115,7 @@ body {
   transition-delay: 0.4s;
 }
 
-/*.w4-nav {
+.w4-nav {
   background-color: #36383f;
   color: #ffffff;
   height: 64px;
@@ -135,7 +135,7 @@ body {
   z-index: 1;
 }
 
-h1.w4-title {
+/*h1.w4-title {
   font: inherit;
 }
 
