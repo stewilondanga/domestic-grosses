@@ -184,7 +184,7 @@ th.w4-data-table-column {
   font: inherit;
 }
 
-/*th>span.w4-data-table-heading {
+th>span.w4-data-table-heading {
   padding-left: 24px;
   padding-right: 0;
   vertical-align: middle;
@@ -194,7 +194,7 @@ th.w4-data-table-column {
   color: rgba(0, 0, 0, 0.54);
 }
 
-tbody.w4-data-table {
+/*tbody.w4-data-table {
   min-width: 250px;
   display: table-header-group;
   vertical-align: middle;
