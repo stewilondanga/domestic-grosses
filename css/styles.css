@@ -214,7 +214,7 @@ tr.w4-data-table-row:last-of-type {
   border-bottom-width: 0;
 }
 
-/*td.w4-data-table-cell {
+td.w4-data-table-cell {
   font-family: Roboto, Helvetica Neue, sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -224,7 +224,7 @@ tr.w4-data-table-row:last-of-type {
   padding: 0;
 }
 
-td>span.w4-data-table-cell-content-wrapper {
+/*td>span.w4-data-table-cell-content-wrapper {
   padding-left: 24px;
   padding-right: 0;
   vertical-align: middle;
