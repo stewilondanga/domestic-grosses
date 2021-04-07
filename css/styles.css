@@ -163,14 +163,14 @@ table.w4-data-table {
   font: 600 14px Roboto, Helvetica Neue, sans-serif;
 }
 
-/*thead.w4-data-table {
+thead.w4-data-table {
   display: table-header-group;
   min-width: 250px;
   vertical-align: middle;
   border-color: inherit;
 }
 
-tr.w4-data-table-column-row {
+/*tr.w4-data-table-column-row {
   min-width: 250px;
   border-bottom-color: rgba(0, 0, 0, 0.12);
   height: 56px;
