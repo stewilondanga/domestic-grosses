@@ -201,7 +201,7 @@ tbody.w4-data-table {
   border-color: inherit;
 }
 
-/*tr.w4-data-table-row {
+tr.w4-data-table-row {
   min-width: 250px;
   border-bottom-color: rgba(0, 0, 0, 0.12);
   height: 48px;
@@ -209,7 +209,7 @@ tbody.w4-data-table {
   border-bottom-width: 1px;
 }
 
-tr.w4-data-table-row:last-of-type {
+/*tr.w4-data-table-row:last-of-type {
   order-bottom-style: none;
   border-bottom-width: 0;
 }
