@@ -9,6 +9,11 @@ body {
   position: relative;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -120,10 +125,6 @@ body {
 
 
 
-body {
-	margin: 0;
-	padding: 0;
-}
 
 .w4-nav {
 	background-color: #36383f;
