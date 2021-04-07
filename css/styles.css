@@ -224,7 +224,7 @@ td.w4-data-table-cell {
   padding: 0;
 }
 
-/*td>span.w4-data-table-cell-content-wrapper {
+td>span.w4-data-table-cell-content-wrapper {
   padding-left: 24px;
   padding-right: 0;
   vertical-align: middle;
@@ -234,7 +234,7 @@ td.w4-data-table-cell {
   color: rgba(0, 0, 0, 0.54);
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
