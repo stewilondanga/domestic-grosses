@@ -179,12 +179,12 @@ tr.w4-data-table-column-row {
   font: inherit;
 }
 
-/*th.w4-data-table-column {
+th.w4-data-table-column {
   color: rgba(0, 0, 0, 0.54);
   font: inherit;
 }
 
-th>span.w4-data-table-heading {
+/*th>span.w4-data-table-heading {
   padding-left: 24px;
   padding-right: 0;
   vertical-align: middle;
