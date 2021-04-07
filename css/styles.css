@@ -170,7 +170,7 @@ thead.w4-data-table {
   border-color: inherit;
 }
 
-/*tr.w4-data-table-column-row {
+tr.w4-data-table-column-row {
   min-width: 250px;
   border-bottom-color: rgba(0, 0, 0, 0.12);
   height: 56px;
@@ -179,7 +179,7 @@ thead.w4-data-table {
   font: inherit;
 }
 
-th.w4-data-table-column {
+/*th.w4-data-table-column {
   color: rgba(0, 0, 0, 0.54);
   font: inherit;
 }
