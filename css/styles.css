@@ -209,12 +209,12 @@ tr.w4-data-table-row {
   border-bottom-width: 1px;
 }
 
-/*tr.w4-data-table-row:last-of-type {
+tr.w4-data-table-row:last-of-type {
   order-bottom-style: none;
   border-bottom-width: 0;
 }
 
-td.w4-data-table-cell {
+/*td.w4-data-table-cell {
   font-family: Roboto, Helvetica Neue, sans-serif;
   font-size: 14px;
   font-weight: 400;
